@@ -1,16 +1,27 @@
-# umroh_app
+# Fitur Umroh App
 
-A new Flutter project.
+Aplikasi Fitur Umroh seperti Jadwal Sholat dan Arah Kiblat, dibuat menggunakan Flutter versi 2.5.3
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Fitur
 
-A few resources to get you started if this is your first Flutter project:
+- Halaman Login dan Daftar
+- Halaman Jadwal Sholat
+- Halaman Arah Kiblat
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+<p align="left"> 
+    <img src="https://github.com/hairulloh-sukur/umroh-app-flutter/blob/main/screenshot/Screenshot%20App%20Umroh%20-%20Login.jpg" width=25% height=25%/>
+    <img src="https://github.com/hairulloh-sukur/umroh-app-flutter/blob/main/screenshot/Screenshot%20App%20Umroh%20-%20Daftar.jpg" width=25% height=25%/>
+    <img src="https://github.com/hairulloh-sukur/umroh-app-flutter/blob/main/screenshot/Screenshot%20App%20Umroh%20-%20Fitur%20Jadwal%20Sholat.jpg" width=25% height=25%/>
+    <img src="https://github.com/hairulloh-sukur/umroh-app-flutter/blob/main/screenshot/Screenshot%20App%20Umroh%20-%20Fitur%20Arah%20Kiblat.jpg" width=25% height=25%/>
+</p>
+
+
+## Preview
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=T01X4IOh1Bc"><img src="https://github.com/hairulloh-sukur/umroh-app-flutter/blob/main/screenshot/Screenshot%20App%20Umroh%20-%20Login.jpg" width=25% height=25% alt="Fitur Umroh App"></a>
+</div>
