@@ -1,9 +1,12 @@
 <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" width=25% height=25%/> 
 
+<br>
+
 # Fitur Umroh App
 
 Aplikasi Fitur Umroh seperti Jadwal Sholat dan Arah Kiblat, dibuat menggunakan Flutter versi 2.5.3
 
+<br>
 
 ## Fitur
 
@@ -11,6 +14,7 @@ Aplikasi Fitur Umroh seperti Jadwal Sholat dan Arah Kiblat, dibuat menggunakan F
 - Halaman Jadwal Sholat
 - Halaman Arah Kiblat
 
+<br>
 
 ## Screenshots
 
@@ -21,6 +25,7 @@ Aplikasi Fitur Umroh seperti Jadwal Sholat dan Arah Kiblat, dibuat menggunakan F
     <img src="https://github.com/hairulloh-sukur/umroh-app-flutter/blob/main/screenshot/Screenshot%20App%20Umroh%20-%20Fitur%20Arah%20Kiblat.jpg" width=25% height=25%/>
 </p>
 
+<br>
 
 ## Preview Video
 
