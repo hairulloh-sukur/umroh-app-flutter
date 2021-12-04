@@ -4,7 +4,7 @@
 
 # Fitur Umroh App
 
-Aplikasi Fitur Umroh seperti Jadwal Sholat dan Arah Kiblat, dibuat menggunakan Flutter versi 2.5.3
+Aplikasi Fitur Umroh: Jadwal Sholat (bimasislam.kemenag.go.id) dan Arah Kiblat, dibuat menggunakan Flutter versi 2.5.3
 
 <br>
 
